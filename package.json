@@ -44,5 +44,17 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
-  }
+  },
+  "description": "This application calculates VAT (German: Mehrwertsteuer) for invoices. A user can enter products and the application calculates and prints the invoice with calculated VAT results.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/jasmine-testing-exercise-StefanWansch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/jasmine-testing-exercise-StefanWansch/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/jasmine-testing-exercise-StefanWansch#readme"
 }
